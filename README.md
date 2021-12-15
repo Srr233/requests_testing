@@ -1,0 +1,1 @@
+Hello! Here you'll see an automated testing.
